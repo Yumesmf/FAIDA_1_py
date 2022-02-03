@@ -1,3 +1,5 @@
+//originaltable1_sampledtable_result
+
 Mary,Britain,Female
 John,Norway,Male
 Murphy,Ireland,Female
@@ -9,3 +11,9 @@ Mike,Germany,Male
 John,USA,Male
 Taylor,USA,Male
 Jennifer,Romania,Female
+
+
+//inverted index result
+
+Mike,Germany,Male
+John,USA,Male
